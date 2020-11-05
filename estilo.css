@@ -1,0 +1,35 @@
+.body{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo{
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: larger;
+	
+}
+
+.menu{
+	padding:20px;
+	background-color: #F47920;
+	width: 100%;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tabla{
+	width: 80%;
+	margin: 40px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+.manualidentidad{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: #F47920; 
+}
