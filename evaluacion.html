@@ -19,13 +19,12 @@
 		</ul>
 	</nav>
 
-	<h2 class="tabla">Autoevaluación</h2>
-	<a href="autoevaluacion2.html"> Autoevaluación 02</a> <br>
-	<a href="evaluacion.html"> Evaluacion sitio web</a> <br>
+	<h2 class="tabla">Evaluación del sitio</h2>
+	<iframe src="Matriz-AndresAcevedo.pdf"frameborder="0"></iframe>
 
-	<br>
-	<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/7724573-que_tanto_apendi.html"></iframe>
-	<br>
+	
 </body>
 
 </html>
+
+	
